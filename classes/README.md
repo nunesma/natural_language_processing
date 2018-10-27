@@ -1,7 +1,7 @@
 ### Students Assessments
 Artificial Intelligence project aiming in students assessments using natural language processing techniques
 
-Table of contents (Fundamentals of Research Methodology - first class)
+Table of contents fund1class (Fundamentals of Research Methodology - first class)
 - Carimbo de data/hora: data
 - Nome de usuário: email
 - Nome completo: nome
