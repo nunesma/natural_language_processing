@@ -1,9 +1,9 @@
-### Natural Language Processing
+# Natural Language Processing
 
 Artificial Intelligence project using natural language processing techniques
 
 
-Table of folders:
+### Table of Contents:
 
 - nlp-deep-learning: Stanford CS224n set of codes related to Natural language processing (NLP) with deep learning course.
 - sequence_models: NLP applications that perform question-answering and sentiment analysis, created tools to translate languages and summarize text, and even built a chatbot.
