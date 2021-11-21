@@ -1,12 +1,12 @@
 # Natural Language Processing
 
-## Artificial Intelligence set of projects using natural language processing techniques
+Artificial Intelligence set of projects using natural language processing techniques
 
-### Natural Language Processing (NLP) tries to make sense out of textual data, which is much more difficult than doing the same with numerical data. 
+Natural Language Processing (NLP) tries to make sense out of textual data, which is much more difficult than doing the same with numerical data. 
 
-### Applications of NLP are everywhere because people communicate almost everything in language: 
+Applications of NLP are everywhere because people communicate almost everything in language: 
 
-### Many organizations are looking to integrate NLP into their workflows and products they provide such as translation, speech recognition and chatbots.
+Many organizations are looking to integrate NLP into their workflows and products they provide such as translation, speech recognition and chatbots.
 
 ### Table of Contents:
 
